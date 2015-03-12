@@ -1,0 +1,15 @@
+<xml>
+<ToUserName><![CDATA[{{ toUser }}]]></ToUserName>
+<FromUserName><![CDATA[{{ fromUser }}]]></FromUserName>
+<CreateTime>{{ createTime }}</CreateTime>
+<MsgType><![CDATA[news]]></MsgType>
+<ArticleCount>1</ArticleCount>
+<Articles>
+<item>
+<Title><![CDATA[【社区！】一起讨论所有污染事件]]></Title>
+<Description><![CDATA[所有用户的举报都在这里展示，欢迎加入并发表你的看法]]></Description>
+<PicUrl><![CDATA[http://123.56.91.148/wechat/images/diss.png]]></PicUrl>
+<Url><![CDATA[http://m.wsq.qq.com/263479264]]></Url>
+</item>
+</Articles>
+</xml>

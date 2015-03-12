@@ -1,0 +1,27 @@
+<xml>
+<ToUserName><![CDATA[{{ toUser }}]]></ToUserName>
+<FromUserName><![CDATA[{{ fromUser }}]]></FromUserName>
+<CreateTime>{{ createTime }}</CreateTime>
+<MsgType><![CDATA[news]]></MsgType>
+<ArticleCount>3</ArticleCount>
+<Articles>
+<item>
+<Title><![CDATA[欢迎关注本订阅号,你可以通过该平台举报身边的水污染事件]]></Title>
+<Description><![CDATA[你可以通过该平台举报身边的水污染事件]]></Description>
+<PicUrl><![CDATA[http://123.56.91.148/wechat/images/xuan.png]]></PicUrl>
+<Url><![CDATA[url]]></Url>
+</item>
+<item>
+<Title><![CDATA[【致歉】该账号目前无法提供正常服务]]></Title>
+<Description><![CDATA[]]></Description>
+<PicUrl><![CDATA[http://123.56.91.148/wechat/images/sorry.png]]></PicUrl>
+<Url><![CDATA[url]]></Url>
+</item>
+<item>
+<Title><![CDATA[回复1开始举报,回复2前往社区,回复00随时终止举报,回复22检查你的反馈信息]]></Title>
+<Description><![CDATA[]]></Description>
+<PicUrl><![CDATA[http://123.56.91.148/wechat/images/tip.png]]></PicUrl>
+<Url><![CDATA[]]></Url>
+</item>
+</Articles>
+</xml>

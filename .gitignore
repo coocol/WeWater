@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+
+.idea/
+doc/
+wewater/images/
+
 __pycache__/
 *.py[cod]
 
